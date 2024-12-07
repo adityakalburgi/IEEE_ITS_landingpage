@@ -1,6 +1,15 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+IEEE ITS Landing page
+![image](https://github.com/user-attachments/assets/731821a1-56c1-47c8-87ef-182f056fe840)
+
 
 ## Getting Started
+
+install all dependences:
+
+```bash
+npm install
+```
 
 First, run the development server:
 
